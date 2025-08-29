@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ornab (Oli) Olindo  
+# 👋 Hi, I’m Ornab Olindo (Oli)
 
 Welcome to my GitHub profile!  
 I’m a **Data & Business Intelligence Professional** with expertise in **Machine Learning, Predictive Analytics, and Business Insights**. My work combines **software engineering rigor** with **data-driven decision making**, spanning projects in **healthcare, urban analytics, finance, and operations**.  
