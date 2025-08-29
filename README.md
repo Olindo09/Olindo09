@@ -66,4 +66,31 @@ Severity segmentation & cost drivers:
 ---
 
 ## 🧰 Tech I use
-- **Power BI:** DAX, Power Query, d
+- **Power BI:** DAX, Power Query, data modeling, role-level security, bookmarks
+- **SQL:** T-SQL, views, stored procedures, performance basics
+- **ETL / Reporting:** SSIS/SSRS, scheduled refresh, source control habits
+- **Python:** pandas, scikit-learn, statsmodels, basic plotting
+- **SAS:** Base/STAT, PROC SQL, modeling workflows
+- **Cloud / Data:** Azure, Snowflake (fundamentals & connectors)
+
+---
+
+## How I work
+- Start with the **business question**, design a **clean model**, then build **fast, readable visuals**.
+- Prefer **documented** Power Query steps and **well-named** DAX measures.
+- Keep a small **data-quality checklist**: types, nulls, duplicates, keys, and row counts.
+
+---
+
+## What I’m exploring next
+- Better metric layers for semantic models  
+- Lightweight MLOps for scheduled retraining and drift checks
+
+---
+
+## Contact
+**LinkedIn:** https://linkedin.com/in/ornabolindo  
+**Email:** ornabolindo@gmail.com  
+**Location:** Toronto, ON
+
+> If a project here sparks ideas, feel free to reach out. I’m always up for data chats.
