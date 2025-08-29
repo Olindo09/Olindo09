@@ -9,7 +9,7 @@ I’m a **Data & Business Intelligence Professional** with expertise in **Machin
 ---
 
 ## 📊 Predictive Analytics & Machine Learning
-- [Machine-Learning-Methods](https://github.com/Olindo09/Machine-Learning-Methods) – Collection of ML approaches applied across domains  
+- [Machine-Learning-Methods](https://github.com/Olindo09/Machine-Learning-Methods.-) – Collection of ML approaches applied across domains  
 - [Boston-Housing-Predictions](https://github.com/Olindo09/Boston-Housing-Predictions) – Housing price forecasting with regression models  
 - [Breast-Cancer-Classification](https://github.com/Olindo09/Breast-Cancer-Classification) – Supervised ML for medical diagnostics  
 - [House-Damage-Prediction](https://github.com/Olindo09/House-Damage-Prediction) *(Private)* – Structural damage estimation from disaster data  
