@@ -11,7 +11,7 @@ I’m a **Data & Business Intelligence Professional** with expertise in **Machin
 - [Machine-Learning-Methods](https://github.com/yourrepo/Machine-Learning-Methods) – Collection of ML approaches applied across domains  
 - [Boston-Housing-Predictions](https://github.com/yourrepo/Boston-Housing-Predictions) – Housing price forecasting with regression models  
 - [Breast-Cancer-Classification](https://github.com/yourrepo/Breast-Cancer-Classification) – Supervised ML for medical diagnostics  
-- [House-Damage-Prediction](https://github.com/yourrepo/House-Damage-Prediction) *(Private)* – Structural damage estimation from disaster data  
+- [House-Damage-Prediction](https://github.com/Olindo09/House-Damage-Prediction) *(Private)* – Structural damage estimation from disaster data  
 
 ---
 
@@ -36,7 +36,7 @@ I’m a **Data & Business Intelligence Professional** with expertise in **Machin
 ## 🛠️ Experiments, Tools & Other Work
 - [brainhack-organizational-app](https://github.com/yourrepo/brainhack-organizational-app) – Hackathon app for team collaboration  
 - [Design-Sample](https://github.com/yourrepo/Design-Sample) – UI/UX and design experiments  
-- [Olindo09](https://github.com/yourrepo/Olindo09) – Personal intro & profile repo  
+ 
 
 ---
 
