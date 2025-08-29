@@ -37,7 +37,7 @@ I’m a **Data & Business Intelligence Professional** with expertise in **Machin
 ## 🛠️ Experiments, Tools & Other Work
 - [brainhack-organizational-app](https://github.com/Olindo09/brainhack-organizational-app) – Hackathon app for team collaboration  
 - [Design-Sample](https://github.com/Olindo09/Design-Sample) – UI/UX and design experiments  
-- [Olindo09](https://github.com/Olindo09/Olindo09) – Profile & portfolio repo (you’re here!)  
+
 
 ---
 
