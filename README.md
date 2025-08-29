@@ -1,96 +1,44 @@
-# Hi, there 👋
+# 👋 Hi, I’m Ornab Olindo (Oli) 
 
-I'm **Ornab “Oli” Olindo** — a Business Intelligence professional with **7+ years** building
-**Power BI** dashboards, solid **SQL** data models, and end-to-end **ETL**. I also apply
-**machine learning & predictive analytics** for forecasting, segmentation, and KPI tracking.
-Based in **Toronto**, PGD in **Business Analytics (Humber)**.
+I’m a **Data & Business Intelligence Professional** with expertise in **Machine Learning, Predictive Analytics, and Business Insights**. My work combines **software engineering rigor** with **data-driven decision making**, spanning projects in **healthcare, urban analytics, finance, and operations**.  
 
-My focus: turn messy, multi-source data into **clear, decision-ready insights**.
+🔹 **Core Skills:** Power BI, SQL, DAX, Python (ML/AI), SAS, ETL Pipelines, Forecasting, Data Modeling  
+🔹 **Focus Areas:** Predictive Analytics • Public Sector Insights • Business Intelligence • Applied Machine Learning  
 
 ---
 
-## My GitHub info (quick snapshot)
-- Total stars: growing 🌱  
-- Commits this year: shipping regularly  
-- PRs / Issues: as needed for each project  
-- Contributed to (last year): personal & client-style demos
-
-*(Numbers update as I work—this box is just a simple textual summary.)*
+## 📊 Predictive Analytics & Machine Learning
+- [Machine-Learning-Methods](https://github.com/yourrepo/Machine-Learning-Methods) – Collection of ML approaches applied across domains  
+- [Boston-Housing-Predictions](https://github.com/yourrepo/Boston-Housing-Predictions) – Housing price forecasting with regression models  
+- [Breast-Cancer-Classification](https://github.com/yourrepo/Breast-Cancer-Classification) – Supervised ML for medical diagnostics  
+- [House-Damage-Prediction](https://github.com/yourrepo/House-Damage-Prediction) *(Private)* – Structural damage estimation from disaster data  
 
 ---
 
-## 📊 BI Projects (Power BI / SQL)
-
-### Restaurant Analytics (Toast POS)
-A full Power BI report for a quick-service restaurant:
-- **Sales by Day & Daypart** (breakfast/lunch/dinner), **payment mix**, and **discounts**.
-- Star schema: `FactSales`, `DimDate`, `DimStore`, `DimMenuItem`, `DimTender`.
-- **Power Query** for data cleanup, parameterized file imports, data quality checks.
-- **DAX** for YTD/MoM, rolling 28-day averages, promo lift, and % of total measures.
-- Shows where revenue comes from and when to staff or promote.
-
-### Supply Chain OTIF (Dairy)
-Operational analytics for distribution:
-- **OTIF** trends, **lead time**, pick accuracy, and freshness SLA monitoring.
-- Modeled facts/dimensions to separate order, shipment, and delivery events.
-- DAX measures for on-time %, in-full %, and SLA breaches.
-- Helps identify bottlenecks and improve service reliability.
-
-### House Damage Claims (Insurance)
-Severity segmentation & cost drivers:
-- Loss amounts, claim counts, and **region/weather** relationships.
-- Model with claim facts + date/location/policy dimensions.
-- Feature flags for surge events; visuals to prioritize adjuster resources.
-
-### SQL Data Analysis – Physical Data Model
-- Clean **star/snowflake** patterns; example T-SQL for views and data validation.
-- Focus on naming standards, SCD handling, and query performance fundamentals.
+## 🏥 Health & Social Analytics
+- [Toronto-Health-Analytics](https://github.com/yourrepo/Toronto-Health-Analytics) – Public health data insights for Toronto  
+- [Breast-Cancer-Classification](https://github.com/yourrepo/Breast-Cancer-Classification) – Clinical ML classification (oncology dataset)  
 
 ---
 
-## 🧪 DS / ML Projects (Python / SAS)
-
-### Time Series Sales Forecasting (LSTM & ARIMA)
-- Comparative forecasting with baseline ARIMA vs. LSTM.
-- Feature engineering for events, promos, holidays, and moving windows.
-- Evaluated with RMSE/MAE; discussion on when classical vs. deep learning wins.
-
-### Text Classification (Stack Overflow)
-- End-to-end NLP pipeline: cleaning, TF-IDF/embeddings, linear vs. tree models.
-- Error analysis to guide feature iteration and thresholding for precision/recall.
-
-### SAS Clinical / Risk Modeling (PROC SQL/STAT)
-- Reproducible pipelines for dataset assembly and feature engineering.
-- Scorecards, model diagnostics, and lift/KS summaries.
+## 🌆 Urban & Crime Analytics
+- [Toronto-Crime-Predictions](https://github.com/yourrepo/Toronto-Crime-Predictions) – ML-driven forecasting of urban crime trends  
+- [Crime-Statistics-and-Predictions-Toronto-GTA](https://github.com/yourrepo/Crime-Statistics-and-Predictions-Toronto-GTA) *(Private)* – Crime data exploration & predictive modeling  
 
 ---
 
-## 🧰 Tech I use
-- **Power BI:** DAX, Power Query, data modeling, role-level security, bookmarks
-- **SQL:** T-SQL, views, stored procedures, performance basics
-- **ETL / Reporting:** SSIS/SSRS, scheduled refresh, source control habits
-- **Python:** pandas, scikit-learn, statsmodels, basic plotting
-- **SAS:** Base/STAT, PROC SQL, modeling workflows
-- **Cloud / Data:** Azure, Snowflake (fundamentals & connectors)
+## 🍺 Business & Industry Analytics
+- [Beer-Production-Predictive-Analytics](https://github.com/yourrepo/Beer-Production-Predictive-Analytics) – Forecasting beer demand & production trends  
+- [Restaurant-Analysis](https://github.com/yourrepo/Restaurant-Analysis) – Analytics for F&B operations and performance  
 
 ---
 
-## How I work
-- Start with the **business question**, design a **clean model**, then build **fast, readable visuals**.
-- Prefer **documented** Power Query steps and **well-named** DAX measures.
-- Keep a small **data-quality checklist**: types, nulls, duplicates, keys, and row counts.
+## 🛠️ Experiments, Tools & Other Work
+- [brainhack-organizational-app](https://github.com/yourrepo/brainhack-organizational-app) – Hackathon app for team collaboration  
+- [Design-Sample](https://github.com/yourrepo/Design-Sample) – UI/UX and design experiments  
+- [Olindo09](https://github.com/yourrepo/Olindo09) – Personal intro & profile repo  
 
 ---
 
-## What I’m exploring next
-- Better metric layers for semantic models  
-- Lightweight MLOps for scheduled retraining and drift checks
-
----
-
-## Contact
-**LinkedIn:** https://linkedin.com/in/ornabolindo  
-**Email:** ornabolindo@gmail.com  
-**Location:** Toronto, ON
-
-> If a project here sparks ideas, feel free to reach out. I’m always up for data chats.
+💡 I’m passionate about turning **complex data into clear, actionable insights**.  
+🚀 Currently building expertise in **data solutions, advanced ML models, and BI consulting**.  
