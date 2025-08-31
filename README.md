@@ -43,4 +43,4 @@ I’m a **Data & Business Intelligence Professional** with expertise in **Machin
 ---
 
 💡 I’m passionate about turning **complex data into clear, actionable insights**.  
-🚀 Currently building expertise in **MySQL database solutions, advanced ML models, and BI consulting**.  
+🚀 Currently building expertise in **SQL database solutions, advanced ML models, and BI consulting**.  
