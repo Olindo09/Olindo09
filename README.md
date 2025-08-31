@@ -3,8 +3,8 @@
 Welcome to my GitHub profile!  
 I’m a **Data & Business Intelligence Professional** with expertise in **Machine Learning, Predictive Analytics, and Business Insights**. My work combines **software engineering rigor** with **data-driven decision making**, spanning projects in **healthcare, urban analytics, finance, and operations**.  
 
-🔹 **Core Skills:** Power BI, SQL, DAX, Python (ML/AI), SAS, ETL Pipelines, Forecasting, Data Modeling  
-🔹 **Focus Areas:** Predictive Analytics • Public Sector Insights • Business Intelligence • Applied Machine Learning  
+🔹 **Core Skills:** Power BI, SQL (MySQL, T-SQL), DAX, Python (ML/AI), SAS, ETL Pipelines, Forecasting, Data Modeling, Database Design  
+🔹 **Focus Areas:** Predictive Analytics • Public Sector Insights • Business Intelligence • Applied Machine Learning • Data Warehousing  
 
 ---
 
@@ -12,7 +12,7 @@ I’m a **Data & Business Intelligence Professional** with expertise in **Machin
 - [Machine-Learning-Methods.](https://github.com/Olindo09/Machine-Learning-Methods.-) – Collection of ML approaches applied across domains  
 - [Boston-Housing-Predictions](https://github.com/Olindo09/Boston-Housing-Predictions) – Housing price forecasting with regression models  
 - [Breast-Cancer-Classification.](https://github.com/Olindo09/Breast-Cancer-Classification.-) – Supervised ML for medical diagnostics  
-- [House-Damage-Prediction](https://github.com/Olindo09/House-Damage-Prediction) *(Private)* – Structural damage estimation from disaster data  
+- [House-Damage-Prediction](https://github.com/Olindo09/House-Damage-Prediction) – Structural damage estimation from disaster data  
 
 ---
 
@@ -22,15 +22,16 @@ I’m a **Data & Business Intelligence Professional** with expertise in **Machin
 
 ---
 
-## 🌆 Urban & Crime Analytics
+## 🌆 Urban data Analytics
 - [Toronto-Crime-Predictions](https://github.com/Olindo09/Toronto-Crime-Predictions) – ML-driven forecasting of urban crime trends  
-- [Crime-Statistics-and-Predictions-Toronto-GTA](https://github.com/Olindo09/Crime-Statistics-and-Predictions-Toronto-GTA) *(Private)* – Crime data exploration & predictive modeling  
+- [Crime-Statistics-and-Predictions-Toronto-GTA](https://github.com/Olindo09/Crime-Statistics-and-Predictions-Toronto-GTA)  – Crime data exploration & predictive modeling  
 
 ---
 
 ## 🍺 Business & Industry Analytics
 - [Beer-Production-Predictive-Analytics](https://github.com/Olindo09/Beer-Production-Predictive-Analytics-) – Forecasting beer demand & production trends  
 - [Restaurant-Analysis](https://github.com/Olindo09/Restaurant-Analysis) – Analytics for F&B operations and performance  
+- [Food-Clearance-Ecom-MySQL-database](https://github.com/Olindo09/Food-Clearance-Ecom-MySQL-database) – Laravel e-commerce platform with **MySQL database** for inventory and clearance management  
 
 ---
 
@@ -42,4 +43,4 @@ I’m a **Data & Business Intelligence Professional** with expertise in **Machin
 ---
 
 💡 I’m passionate about turning **complex data into clear, actionable insights**.  
-🚀 Currently building expertise in **data solutions, advanced ML models, and BI consulting**.  
+🚀 Currently building expertise in **MySQL database solutions, advanced ML models, and BI consulting**.  
